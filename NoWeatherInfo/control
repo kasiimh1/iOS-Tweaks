@@ -1,0 +1,9 @@
+Package: com.kasiimh1.noweatherinfo
+Name: NoWeatherInfo
+Depends: mobilesubstrate
+Version: 0.2
+Architecture: iphoneos-arm
+Description: Removes Weather is Provided by on Today View
+Maintainer: kasiimh1
+Author: kasiimh1
+Section: Tweaks
