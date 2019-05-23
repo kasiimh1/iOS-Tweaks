@@ -1,0 +1,9 @@
+Package: com.kasiimh1.hidemydockbackground
+Name: HideMyDockBackground
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes The Dock Background, Tested on iPhone XS
+Maintainer: kasiimh1
+Author: kasiimh1
+Section: Tweaks
