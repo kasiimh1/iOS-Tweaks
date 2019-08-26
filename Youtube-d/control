@@ -1,7 +1,7 @@
 Package: com.kasiim.ytbgd
 Name: ytbgd
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 0.2
 Architecture: iphoneos-arm
 Description: Enable Background Playback, Removes Channel Watermark in Google Youtube App
 Maintainer: kasiimh1

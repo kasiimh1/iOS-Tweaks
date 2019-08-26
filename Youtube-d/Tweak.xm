@@ -20,3 +20,16 @@
 -(void) setFeaturedChannelWatermarkImageView:(id)arg1{
 }
 %end
+
+%hook YTVideoAdsCoordinatorState
+- (bool) prerollseen{
+    return TRUE;
+}
+%end
+
+%hook YTSettings
+- (bool) isAdultContentConfirmed{
+    return TRUE;
+}
+%end
+
