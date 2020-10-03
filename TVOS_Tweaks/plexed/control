@@ -1,0 +1,9 @@
+Package: com.kasiim.plexed-tv
+Name: plexed-tv
+Version: 0.0.1
+Architecture: appletvos-arm64
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Kasiim
+Author: Kasiim
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
