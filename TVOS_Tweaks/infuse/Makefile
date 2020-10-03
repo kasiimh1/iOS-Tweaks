@@ -1,7 +1,7 @@
 TARGET := appletv:clang:10.2.2:12.4
 INSTALL_TARGET_PROCESSES = com.firecore.infuse
 ARCHS = arm64
-THEOS_DEVICE_IP = 192.168.0.47
+THEOS_DEVICE_IP = 192.168.0.3
 
 include $(THEOS)/makefiles/common.mk
 
