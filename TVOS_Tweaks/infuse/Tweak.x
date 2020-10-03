@@ -1,3 +1,4 @@
+
 %hook FCInAppPurchaseServiceMobile
 - (bool)hasValidReceipt {
     return 1;

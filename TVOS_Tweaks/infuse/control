@@ -1,9 +1,9 @@
-Package: com.kasiim.infused-tv
-Name: infused-tv
-Version: 0.0.1
+Package: com.kasiim.infuse++
+Name: Infuse++
+Version: 0.0.2
 Architecture: appletvos-arm64
 Description: An awesome MobileSubstrate tweak!
-Maintainer: Kasiim
-Author: Kasiim
+Maintainer: Kasim Hussain
+Author: Kasim Hussain
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
