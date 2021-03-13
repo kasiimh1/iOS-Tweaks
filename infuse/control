@@ -1,0 +1,9 @@
+Package: com.kasiimh1.infuse++
+Name: Infuse++
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable Pro in Infuse App
+Maintainer: Kasim Hussain
+Author: Kasim Hussain
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

@@ -1,0 +1,9 @@
+Package: com.kasiimh1.plexed
+Name: plexed-tv
+Version: 1.0
+Architecture: iphonearmos-arm
+Description: Enable Pro in Plex App
+Maintainer: Kasim Hussain
+Author: Kasim Hussain
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
