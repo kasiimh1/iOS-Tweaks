@@ -1,0 +1,9 @@
+Package: com.kasiimh1
+Name: youtubd
+Version: 0.0.1
+Architecture: appletvos-arm64
+Description: No Ads on Youtube
+Maintainer: Kasim Hussain
+Author: Kasim Hussain
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
